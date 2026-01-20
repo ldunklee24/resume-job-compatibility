@@ -1,0 +1,332 @@
+[
+    {
+        "job_category": "data",
+        "job_id": "job_001",
+        "job_title": "Data Engineer",
+        "company": "HarbourVest Partners",
+        "location": "Boston, MA",
+        "job_description_text": "As a Data Engineer at HarbourVest, you will transform the firm\u2019s data infrastructure using Snowflake and the Azure data stack. The role involves implementing and supporting Snowflake-based data pipelines, analyzing business and technical requirements to contribute to data models, designing and building data validations, transformations, reports, and integration processes, creating CI/CD pipelines, and organizing work using Agile techniques. You will collaborate with product owners, data owners, project managers, business users, peer data engineers, and infrastructure engineers to deliver end-to-end data solutions.",
+        "required_skills": [
+            "Snowflake",
+            "CI/CD",
+            "SQL",
+            "Python",
+            "Dagster",
+            "Agile"
+        ],
+        "preferred_skills": [
+            "Azure"
+        ],
+        "years_experience": 3
+    },
+    {
+        "job_category": "data",
+        "job_id": "job_002",
+        "job_title": "Data Engineer I",
+        "company": "Travelers",
+        "location": "Hartford, CT",
+        "job_description_text": "As a Data Engineer at Travelers, you will design, build, and operationalize complex data solutions to support analytics, AI, ML, and business intelligence. The role involves developing data pipelines, performing data transformations, ensuring data quality and governance, collaborating across teams, testing data movement and transformation code, and analyzing data sources to inform analytical processes.",
+        "required_skills": [
+            "SQL",
+            "Python",
+            "AWS",
+            "S3",
+            "Glue",
+            "Athena"
+        ],
+        "preferred_skills": [
+            "CI/CD",
+            "Artificial Intelligence",
+            "Machine Learning"
+        ],
+        "years_experience": 2
+    },
+    {
+        "job_category": "data",
+        "job_id": "job_003",
+        "job_title": "Data Product Engineer",
+        "company": "Verisk",
+        "location": "Middletown, CT",
+        "job_description_text": "As a Data Analyst on the MarketStance Data Team, you will transform disparate data sources into a model of the U.S. economy and commercial insurance market. Responsibilities include operating and maintaining data modeling routines in Microsoft SQL Server, creating data models and metadata, conducting quality assurance, leveraging government and private datasets to inform exposure estimates, conducting secondary research on commercial insurance, and presenting findings to internal and external clients.",
+        "required_skills": [
+            "MS SQL",
+            "MS Excel",
+            "MS Powerpoint",
+            "Analytical Writing"
+        ],
+        "preferred_skills": [
+            "Actuary",
+            "R",
+            "SAS",
+            "Python",
+            "GIS"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "data",
+        "job_id": "job_001",
+        "job_title": "Data Engineer",
+        "company": "HarbourVest Partners",
+        "location": "Boston, MA",
+        "job_description_text": "As a Data Engineer at HarbourVest, you will transform the firm\u2019s data infrastructure using Snowflake and the Azure data stack. The role involves implementing and supporting Snowflake-based data pipelines, analyzing business and technical requirements to contribute to data models, designing and building data validations, transformations, reports, and integration processes, creating CI/CD pipelines, and organizing work using Agile techniques. You will collaborate with product owners, data owners, project managers, business users, peer data engineers, and infrastructure engineers to deliver end-to-end data solutions.",
+        "required_skills": [
+            "Snowflake",
+            "CI/CD",
+            "SQL",
+            "Python",
+            "Dagster",
+            "Agile"
+        ],
+        "preferred_skills": [
+            "Azure"
+        ],
+        "years_experience": 3
+    },
+    {
+        "job_category": "data",
+        "job_id": "job_002",
+        "job_title": "Data Engineer I",
+        "company": "Travelers",
+        "location": "Hartford, CT",
+        "job_description_text": "As a Data Engineer at Travelers, you will design, build, and operationalize complex data solutions to support analytics, AI, ML, and business intelligence. The role involves developing data pipelines, performing data transformations, ensuring data quality and governance, collaborating across teams, testing data movement and transformation code, and analyzing data sources to inform analytical processes.",
+        "required_skills": [
+            "SQL",
+            "Python",
+            "AWS",
+            "S3",
+            "Glue",
+            "Athena"
+        ],
+        "preferred_skills": [
+            "CI/CD",
+            "Artificial Intelligence",
+            "Machine Learning"
+        ],
+        "years_experience": 2
+    },
+    {
+        "job_category": "data",
+        "job_id": "job_003",
+        "job_title": "Data Product Engineer",
+        "company": "Verisk",
+        "location": "Middletown, CT",
+        "job_description_text": "As a Data Analyst on the MarketStance Data Team, you will transform disparate data sources into a model of the U.S. economy and commercial insurance market. Responsibilities include operating and maintaining data modeling routines in Microsoft SQL Server, creating data models and metadata, conducting quality assurance, leveraging government and private datasets to inform exposure estimates, conducting secondary research on commercial insurance, and presenting findings to internal and external clients.",
+        "required_skills": [
+            "MS SQL",
+            "MS Excel",
+            "MS Powerpoint",
+            "Analytical Writing"
+        ],
+        "preferred_skills": [
+            "Actuary",
+            "R",
+            "SAS",
+            "Python",
+            "GIS"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "data",
+        "job_id": "job_004",
+        "job_title": "Data Analyst",
+        "company": "Parsons",
+        "location": "Meyer Camp, HI",
+        "job_description_text": "As a Data Analyst at Parsons supporting US INDOPACOM, you will collaborate with stakeholders to collect, analyze, and interpret structured and unstructured data to support strategic initiatives. You will produce actionable use cases for command staff, educate users on data interpretation, automate data processing and analysis tasks, and communicate complex technical information clearly to technical and non-technical audiences.",
+        "required_skills": [
+            "Python",
+            "R",
+            "SQL",
+            "TensorFlow",
+            "scikit-learn",
+            "PyTorch",
+            "matplotlib",
+            "Pandas",
+            "Spark"
+        ],
+        "preferred_skills": [
+            "data visualization",
+            "security clearance"
+        ],
+        "years_experience": 2
+    },
+    {
+        "job_category": "data",
+        "job_id": "job_005",
+        "job_title": "Data Analyst",
+        "company": "ADP",
+        "location": "Denver, CO",
+        "job_description_text": "As a Sr. Data Analytics Consultant at ADP, you will work closely with business stakeholders to understand objectives and deliver data-driven insights. Responsibilities include managing data and analytics projects, extracting and analyzing data from multiple systems, developing and maintaining reports and self-service tools, translating technical findings into clear recommendations for non-technical audiences, and supporting data governance and ad-hoc requests.",
+        "required_skills": [
+            "SQL",
+            "Excel"
+        ],
+        "preferred_skills": [
+            "Microsoft Word",
+            "Microsoft Powerpoint",
+            "Tableau",
+            " PowerBI",
+            "Qlik",
+            "Looker"
+        ],
+        "years_experience": 2
+    },
+    {
+        "job_category": "data",
+        "job_id": "job_006",
+        "job_title": "Data & AI Consultant",
+        "company": "Thorogood",
+        "location": "Boston, MA",
+        "job_description_text": "As an entry-level consultant at Thorogood, you will work with clients to develop data-focused technical solutions, build core technology skills, and participate in client interactions. Responsibilities include contributing to project teams, analyzing and transforming data, developing analytical and technical expertise, supporting business development activities, and helping deliver educational and marketing events. You will also assist in internal consultancy growth through recruiting, training, and knowledge sharing. This role involves hybrid work from the Boston office with occasional travel to client sites.",
+        "required_skills": [
+            "Cloud BI",
+            "AWS",
+            "Azure",
+            "Google Cloud",
+            "SQL",
+            "Python",
+            "R",
+            "Scala",
+            "Spark"
+        ],
+        "preferred_skills": [
+            "machine learning",
+            "artificial intelligence",
+            "probability",
+            "data visualization"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "data",
+        "job_id": "job_007",
+        "job_title": "Machine Learning Engineer",
+        "company": "Next Insurance",
+        "location": "Boston, MA",
+        "job_description_text": "As a Backend Engineer at NEXT, you will design, implement, and optimize backend services supporting AI workflows, integrate ML and LLM models into production systems, collaborate with product and cross-functional teams to refine requirements, contribute to system design and architecture reviews, diagnose complex issues across data pipelines and backend components, and drive technical initiatives to support innovation and continuous improvement. The role supports a hybrid work model with a minimum of two days per week on-site.",
+        "required_skills": [
+            "Python",
+            "GO",
+            "Java",
+            "Machine Learning",
+            "Large Language Models"
+        ],
+        "preferred_skills": [
+            "Cloud Infrastructure"
+        ],
+        "years_experience": 2
+    },
+    {
+        "job_category": "data",
+        "job_id": "job_008",
+        "job_title": "AI Engineer",
+        "company": "GEI Consultants Inc.",
+        "location": "Wakefield, MA",
+        "job_description_text": "As an AI Engineer at GEI, you will build, deploy, and integrate AI solutions using pretrained models and Copilot technologies, design prompt flows and orchestrations, integrate AI capabilities into business workflows and enterprise data sources, maintain and optimize AI-enabled Power BI dashboards, instrument solutions for telemetry and performance monitoring, and provide technical support and troubleshooting. The role focuses on delivering scalable, secure, and production-ready Generative AI applications and collaborating with solution architects and platform teams.",
+        "required_skills": [
+            "Large Language Models",
+            "Python",
+            "PySpark",
+            "R",
+            "SQL",
+            "Spark",
+            "Databricks",
+            "Azure AI Platform",
+            "Azure Data Factory",
+            "Azure Synapse",
+            "Azure Cognitive Services"
+        ],
+        "preferred_skills": [
+            "Azure",
+            "TensorFlow",
+            "PyTorch",
+            "Azure AI Engineer Associate",
+            "Azure Solutions Architect Expert",
+            "Databricks ML Professional",
+            "Databricks Data Engineer Professional"
+        ],
+        "years_experience": 4
+    },
+    {
+        "job_category": "data",
+        "job_id": "job_009",
+        "job_title": "Data Engineer",
+        "company": "Keystone",
+        "location": "Boston, MA",
+        "job_description_text": "As a Data Engineer at Keystone within the ETSA group, you will design, build, and optimize data systems supporting high-impact analytical and forensic engagements. You will partner with consultants to architect secure, high-performance data infrastructure across cloud environments, develop reproducible data ingestion pipelines and analytical workflows, build custom software and APIs to automate data discovery and integrate LLMs, leverage ETL/ELT, SQL, and big data technologies, implement tools for scalability and auditability, support AI/ML-driven analysis including model fine-tuning and deployment, advise on data governance and compliance, and collaborate with cross-functional teams to deliver innovative client outcomes.",
+        "required_skills": [
+            "SQL",
+            "JSON",
+            "CSV",
+            "AWS",
+            "GCP",
+            "Azure",
+            "Lambda",
+            "Bedrock",
+            "Vertex AI",
+            "Python",
+            "R",
+            "PyTorch",
+            "TensorFlow",
+            "scikit-learn",
+            "Hugging Face",
+            "OpenAI API"
+        ],
+        "preferred_skills": [
+            "Airflow",
+            "dbt",
+            "Prefect",
+            "Luigi",
+            "Snowflake",
+            "Spark",
+            "BigQuery",
+            "Git",
+            "CI/CD"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "data",
+        "job_id": "job_010",
+        "job_title": "Data Engineer - Cloud",
+        "company": "CapTech",
+        "location": "Denver, CO",
+        "job_description_text": "As a Cloud Data Engineer at CapTech, you will design and implement data pipelines and products using cloud platforms like AWS, Azure, or GCP. You will collaborate with clients, developers, and analysts to build scalable and efficient data solutions, apply engineering best practices to solve complex problems, implement data architecture designs, develop production-ready pipelines, and leverage SQL, Python, and modern cloud technologies. You will also advise clients on architectural trade-offs and help maximize the business value of their data.",
+        "required_skills": [
+            "SQL",
+            "Python",
+            "Java",
+            "R",
+            "C#",
+            "C++",
+            "C",
+            "SQL Server",
+            "PostgreSQL",
+            "Snowflake",
+            "Redshift",
+            "Aurora",
+            "Presto",
+            "BigQuery",
+            "Oracle",
+            "git",
+            "docker",
+            "subversion",
+            "kubernetes",
+            "Jenkins"
+        ],
+        "preferred_skills": [
+            "Spark",
+            "Databricks",
+            "Kafka",
+            "Kineses",
+            "Hadoop",
+            "Lambda",
+            "EMR",
+            "AWS Cloud Practitioner",
+            "Microsoft Azure Data Fundamentals",
+            "Google Associate Cloud Engineer"
+        ],
+        "years_experience": 0
+    }
+]

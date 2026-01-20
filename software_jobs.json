@@ -1,0 +1,517 @@
+[
+    {
+        "job_category": "software",
+        "job_id": "job_001",
+        "job_title": "Software Engineer I",
+        "company": "SEACORP",
+        "location": "Newport, RI",
+        "job_description_text": "SEACORP is seeking an entry-level Software Engineer to work within a multidisciplinary team to define, design, develop, test, and integrate software capabilities into complex military systems. The role involves contributing to key features, enhancing existing applications, and participating in the full software development lifecycle. Responsibilities include designing, coding, testing, integrating, and documenting software solutions; working within agile workflows; and contributing to both front-end and back-end development.",
+        "required_skills": [
+            "C++",
+            "Java",
+            "Python",
+            "Linux",
+            "Agile"
+        ],
+        "preferred_skills": [
+            "Atlassian Tools"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_002",
+        "job_title": "Software Engineer II",
+        "company": "Raytheon",
+        "location": "Tewksbury, MA",
+        "job_description_text": "Raytheon is hiring a Software Development Engineer II to work within the Air & Missile Defense Software Department on the Patriot Software Development Team. The role involves assisting with requirements, design, development, and testing of real-time embedded software, application software, and tools, including creating new work products and enhancing existing applications. Responsibilities include designing, coding, testing, integrating, and documenting software solutions, participating in internal software reviews, collaborating with project managers and engineers, and following established development practices to maintain software configuration management.",
+        "required_skills": [
+            "C++",
+            "C",
+            "Java",
+            "Unix/Linux",
+            "Software Development"
+        ],
+        "preferred_skills": [
+            "Data Structures",
+            "Algorithms",
+            "Agile/SCRUM",
+            "DevOps",
+            "Test Automation"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_003",
+        "job_title": "Python Developer",
+        "company": "Infosys",
+        "location": "Hartford, CT",
+        "job_description_text": "Infosys is seeking a GCP & Python Developer to work across the Software Development Life Cycle, including requirements elicitation, application architecture definition, and design. The role involves creating high-level design artifacts, delivering high-quality code for modules, leading validation for all types of testing, and supporting implementation, transition, and warranty activities. This position requires collaboration with stakeholders and teamwork in a learning culture that values excellence and diversity.",
+        "required_skills": [
+            "python",
+            "agile",
+            "ETL Tools",
+            "GCP Services"
+        ],
+        "preferred_skills": [
+            "modeling",
+            "GCP Certifications"
+        ],
+        "years_experience": 2
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_004",
+        "job_title": "Associate Engineer",
+        "company": "Man Group",
+        "location": "Boston, MA",
+        "job_description_text": "As a member of the Business and Investment Production Support (BIPS) team at Man Group, the associate engineer will maintain and monitor automated investment processes, including database jobs, modeling tasks, reporting, and analytics. The role involves deploying new models and simulators, overseeing the production environment, debugging real-time issues, coordinating schedule changes with developers, managing production incidents, executing releases, and recommending workflow enhancements. The position requires collaboration with developers, researchers, and portfolio managers to implement new strategies and improve production processes.",
+        "required_skills": [
+            "Unix/Linux",
+            "SQL",
+            "Python"
+        ],
+        "preferred_skills": [
+            "finance",
+            "Control-M",
+            "Source control tools",
+            "relational databases"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_005",
+        "job_title": "Associate Software Engineer",
+        "company": "Veeva Systems",
+        "location": "Boston, MA",
+        "job_description_text": "Veeva Systems is hiring recent university graduates for its Engineering Development Program to grow the next generation of Software Engineers. The program provides a challenging environment to learn quickly, deliver value early, and develop technical and professional skills. Participants will work on system software, application logic, front-end, and mobile development using languages such as Java, Python, TypeScript, JavaScript, Swift, and Kotlin. The role involves coding, collaborating with engineering teams, and applying fundamental computer science knowledge to contribute to software projects in a fast-paced, learning-focused environment.",
+        "required_skills": [
+            "Operating Systems",
+            "Compilers",
+            "Java",
+            "Python",
+            "JavaScript"
+        ],
+        "preferred_skills": [
+            "TypeScript",
+            "React",
+            "React Native",
+            "Swift",
+            "Kotlin"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_006",
+        "job_title": "Entry Level Software Engineer",
+        "company": "BAE Systems Inc.",
+        "location": "Hudson, NH",
+        "job_description_text": "As an Entry-Level Software Engineer at BAE Systems, you will design, develop, and test software for advanced defense and space systems. The role involves contributing to the full software lifecycle, including coding, debugging, integration, and system testing, while collaborating with system, hardware, and test engineers. You will support field demonstrations, software installations, and system-level testing, gaining exposure to advanced technologies and tools as you build your technical foundation.",
+        "required_skills": [
+            "C",
+            "C++",
+            "Java",
+            "Python",
+            "Object Oriented Design"
+        ],
+        "preferred_skills": [
+            "Security Clearance",
+            "version control",
+            "Agile",
+            "DevOps"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_001",
+        "job_title": "Software Engineer I",
+        "company": "SEACORP",
+        "location": "Newport, RI",
+        "job_description_text": "SEACORP is seeking an entry-level Software Engineer to work within a multidisciplinary team to define, design, develop, test, and integrate software capabilities into complex military systems. The role involves contributing to key features, enhancing existing applications, and participating in the full software development lifecycle. Responsibilities include designing, coding, testing, integrating, and documenting software solutions; working within agile workflows; and contributing to both front-end and back-end development.",
+        "required_skills": [
+            "C++",
+            "Java",
+            "Python",
+            "Linux",
+            "Agile"
+        ],
+        "preferred_skills": [
+            "Atlassian Tools"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_002",
+        "job_title": "Software Engineer II",
+        "company": "Raytheon",
+        "location": "Tewksbury, MA",
+        "job_description_text": "Raytheon is hiring a Software Development Engineer II to work within the Air & Missile Defense Software Department on the Patriot Software Development Team. The role involves assisting with requirements, design, development, and testing of real-time embedded software, application software, and tools, including creating new work products and enhancing existing applications. Responsibilities include designing, coding, testing, integrating, and documenting software solutions, participating in internal software reviews, collaborating with project managers and engineers, and following established development practices to maintain software configuration management.",
+        "required_skills": [
+            "C++",
+            "C",
+            "Java",
+            "Unix/Linux",
+            "Software Development"
+        ],
+        "preferred_skills": [
+            "Data Structures",
+            "Algorithms",
+            "Agile/SCRUM",
+            "DevOps",
+            "Test Automation"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_003",
+        "job_title": "Python Developer",
+        "company": "Infosys",
+        "location": "Hartford, CT",
+        "job_description_text": "Infosys is seeking a GCP & Python Developer to work across the Software Development Life Cycle, including requirements elicitation, application architecture definition, and design. The role involves creating high-level design artifacts, delivering high-quality code for modules, leading validation for all types of testing, and supporting implementation, transition, and warranty activities. This position requires collaboration with stakeholders and teamwork in a learning culture that values excellence and diversity.",
+        "required_skills": [
+            "python",
+            "agile",
+            "ETL Tools",
+            "GCP Services"
+        ],
+        "preferred_skills": [
+            "modeling",
+            "GCP Certifications"
+        ],
+        "years_experience": 2
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_004",
+        "job_title": "Associate Engineer",
+        "company": "Man Group",
+        "location": "Boston, MA",
+        "job_description_text": "As a member of the Business and Investment Production Support (BIPS) team at Man Group, the associate engineer will maintain and monitor automated investment processes, including database jobs, modeling tasks, reporting, and analytics. The role involves deploying new models and simulators, overseeing the production environment, debugging real-time issues, coordinating schedule changes with developers, managing production incidents, executing releases, and recommending workflow enhancements. The position requires collaboration with developers, researchers, and portfolio managers to implement new strategies and improve production processes.",
+        "required_skills": [
+            "Unix/Linux",
+            "SQL",
+            "Python"
+        ],
+        "preferred_skills": [
+            "finance",
+            "Control-M",
+            "Source control tools",
+            "relational databases"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_005",
+        "job_title": "Associate Software Engineer",
+        "company": "Veeva Systems",
+        "location": "Boston, MA",
+        "job_description_text": "Veeva Systems is hiring recent university graduates for its Engineering Development Program to grow the next generation of Software Engineers. The program provides a challenging environment to learn quickly, deliver value early, and develop technical and professional skills. Participants will work on system software, application logic, front-end, and mobile development using languages such as Java, Python, TypeScript, JavaScript, Swift, and Kotlin. The role involves coding, collaborating with engineering teams, and applying fundamental computer science knowledge to contribute to software projects in a fast-paced, learning-focused environment.",
+        "required_skills": [
+            "Operating Systems",
+            "Compilers",
+            "Java",
+            "Python",
+            "JavaScript"
+        ],
+        "preferred_skills": [
+            "TypeScript",
+            "React",
+            "React Native",
+            "Swift",
+            "Kotlin"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_006",
+        "job_title": "Entry Level Software Engineer",
+        "company": "BAE Systems Inc.",
+        "location": "Hudson, NH",
+        "job_description_text": "As an Entry-Level Software Engineer at BAE Systems, you will design, develop, and test software for advanced defense and space systems. The role involves contributing to the full software lifecycle, including coding, debugging, integration, and system testing, while collaborating with system, hardware, and test engineers. You will support field demonstrations, software installations, and system-level testing, gaining exposure to advanced technologies and tools as you build your technical foundation.",
+        "required_skills": [
+            "C",
+            "C++",
+            "Java",
+            "Python",
+            "Object Oriented Design"
+        ],
+        "preferred_skills": [
+            "Security Clearance",
+            "version control",
+            "Agile",
+            "DevOps"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_001",
+        "job_title": "Software Engineer I",
+        "company": "SEACORP",
+        "location": "Newport, RI",
+        "job_description_text": "SEACORP is seeking an entry-level Software Engineer to work within a multidisciplinary team to define, design, develop, test, and integrate software capabilities into complex military systems. The role involves contributing to key features, enhancing existing applications, and participating in the full software development lifecycle. Responsibilities include designing, coding, testing, integrating, and documenting software solutions; working within agile workflows; and contributing to both front-end and back-end development.",
+        "required_skills": [
+            "C++",
+            "Java",
+            "Python",
+            "Linux",
+            "Agile"
+        ],
+        "preferred_skills": [
+            "Atlassian Tools"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_002",
+        "job_title": "Software Engineer II",
+        "company": "Raytheon",
+        "location": "Tewksbury, MA",
+        "job_description_text": "Raytheon is hiring a Software Development Engineer II to work within the Air & Missile Defense Software Department on the Patriot Software Development Team. The role involves assisting with requirements, design, development, and testing of real-time embedded software, application software, and tools, including creating new work products and enhancing existing applications. Responsibilities include designing, coding, testing, integrating, and documenting software solutions, participating in internal software reviews, collaborating with project managers and engineers, and following established development practices to maintain software configuration management.",
+        "required_skills": [
+            "C++",
+            "C",
+            "Java",
+            "Unix/Linux",
+            "Software Development"
+        ],
+        "preferred_skills": [
+            "Data Structures",
+            "Algorithms",
+            "Agile/SCRUM",
+            "DevOps",
+            "Test Automation"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_003",
+        "job_title": "Python Developer",
+        "company": "Infosys",
+        "location": "Hartford, CT",
+        "job_description_text": "Infosys is seeking a GCP & Python Developer to work across the Software Development Life Cycle, including requirements elicitation, application architecture definition, and design. The role involves creating high-level design artifacts, delivering high-quality code for modules, leading validation for all types of testing, and supporting implementation, transition, and warranty activities. This position requires collaboration with stakeholders and teamwork in a learning culture that values excellence and diversity.",
+        "required_skills": [
+            "python",
+            "agile",
+            "ETL Tools",
+            "GCP Services"
+        ],
+        "preferred_skills": [
+            "modeling",
+            "GCP Certifications"
+        ],
+        "years_experience": 2
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_004",
+        "job_title": "Associate Engineer",
+        "company": "Man Group",
+        "location": "Boston, MA",
+        "job_description_text": "As a member of the Business and Investment Production Support (BIPS) team at Man Group, the associate engineer will maintain and monitor automated investment processes, including database jobs, modeling tasks, reporting, and analytics. The role involves deploying new models and simulators, overseeing the production environment, debugging real-time issues, coordinating schedule changes with developers, managing production incidents, executing releases, and recommending workflow enhancements. The position requires collaboration with developers, researchers, and portfolio managers to implement new strategies and improve production processes.",
+        "required_skills": [
+            "Unix/Linux",
+            "SQL",
+            "Python"
+        ],
+        "preferred_skills": [
+            "finance",
+            "Control-M",
+            "Source control tools",
+            "relational databases"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_005",
+        "job_title": "Associate Software Engineer",
+        "company": "Veeva Systems",
+        "location": "Boston, MA",
+        "job_description_text": "Veeva Systems is hiring recent university graduates for its Engineering Development Program to grow the next generation of Software Engineers. The program provides a challenging environment to learn quickly, deliver value early, and develop technical and professional skills. Participants will work on system software, application logic, front-end, and mobile development using languages such as Java, Python, TypeScript, JavaScript, Swift, and Kotlin. The role involves coding, collaborating with engineering teams, and applying fundamental computer science knowledge to contribute to software projects in a fast-paced, learning-focused environment.",
+        "required_skills": [
+            "Operating Systems",
+            "Compilers",
+            "Java",
+            "Python",
+            "JavaScript"
+        ],
+        "preferred_skills": [
+            "TypeScript",
+            "React",
+            "React Native",
+            "Swift",
+            "Kotlin"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_006",
+        "job_title": "Entry Level Software Engineer",
+        "company": "BAE Systems Inc.",
+        "location": "Hudson, NH",
+        "job_description_text": "As an Entry-Level Software Engineer at BAE Systems, you will design, develop, and test software for advanced defense and space systems. The role involves contributing to the full software lifecycle, including coding, debugging, integration, and system testing, while collaborating with system, hardware, and test engineers. You will support field demonstrations, software installations, and system-level testing, gaining exposure to advanced technologies and tools as you build your technical foundation.",
+        "required_skills": [
+            "C",
+            "C++",
+            "Java",
+            "Python",
+            "Object Oriented Design"
+        ],
+        "preferred_skills": [
+            "Security Clearance",
+            "version control",
+            "Agile",
+            "DevOps"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_007",
+        "job_title": "Full Stack Engineer",
+        "company": "C2R Ventures",
+        "location": "Boston, MA",
+        "job_description_text": "The Full Stack Engineer will work in the Research and Portfolio Systems Group to design, develop, deploy, and support mission-critical applications for research, portfolio construction, and portfolio management. Responsibilities include developing and maintaining Python-based backend services, building RESTful APIs and data pipelines, enhancing applications using the .NET and Python stacks, creating new system components with TDD and SOLID principles, participating in code reviews and analysis, and ensuring adherence to architecture and coding standards. The role involves close collaboration with Developers, Product Owners, and Quant Research teams to deliver calculation-intensive software solutions for quantitative research and portfolio analytics.",
+        "required_skills": [
+            "Python",
+            "Object Oriented Design",
+            ".NET",
+            "FastAPI",
+            "Flask",
+            "Django",
+            "SQL",
+            "React",
+            "TypeScript",
+            "HTML",
+            "CSS",
+            "AZURE"
+        ],
+        "preferred_skills": [
+            "Docker",
+            "Kubernetes",
+            "CI/CD",
+            "finance",
+            "Vector Databases",
+            "large language models",
+            "machine learning",
+            "NLP"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_008",
+        "job_title": "Entry Level Software Developer",
+        "company": "IBM",
+        "location": "Lowell, MA",
+        "job_description_text": "As an Entry-Level Software Developer at IBM, you will join a collaborative Agile team to design, build, and deploy modern web applications. The role involves contributing to all stages of the development cycle, working with APIs, databases, and cloud services to build scalable solutions, applying Agile and DevOps practices, collaborating with UX designers and senior developers, and learning from mentorship and code reviews to grow technical skills.",
+        "required_skills": [
+            "Java",
+            "C",
+            "C++",
+            "PL/I",
+            "Assembler",
+            "GitHub",
+            "Python",
+            "JavaScript",
+            "TypeScript",
+            "Ruby",
+            "Rust",
+            "Swift",
+            "Kotlin"
+        ],
+        "preferred_skills": [
+            "CI/CD",
+            "IBM Z Architecture",
+            "Agile",
+            "IBM z/OS",
+            "Db2",
+            "MongoDB",
+            "IMS",
+            "SQL",
+            "NoSQL",
+            "MySQL",
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "jQuery",
+            "Node.js",
+            "React",
+            "DOM",
+            "JSON",
+            "CSS",
+            "HTTP",
+            "SSL",
+            "MQ",
+            "TCP/IP",
+            "VCP",
+            "Kubernetes",
+            "OpenShift",
+            "Istio",
+            "Akamai",
+            "REST APIs",
+            "VS Code",
+            "Linux",
+            "Springboot",
+            "Liberty",
+            "Quarkus",
+            "Grails",
+            "Artificial Intelligence",
+            "Machine Learning"
+        ],
+        "years_experience": 0
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_009",
+        "job_title": "Python Developer, Officer",
+        "company": "State Street",
+        "location": "Quincy, MA",
+        "job_description_text": "As a Python Developer at State Street, you will design and deliver secure, scalable backend services and data pipelines for the AML Transaction Monitoring platform. The role involves developing Python APIs using frameworks like FastAPI and Django, building ETL processes and Delta tables with Databricks, utilizing cloud platforms for data processing and analytics, and contributing across the full development cycle with a focus on scalability and performance.",
+        "required_skills": [
+            "Python",
+            "AWS",
+            "Django",
+            "Fast API"
+        ],
+        "preferred_skills": [
+            "PySpark",
+            "Databricks",
+            "ETL",
+            "Agile",
+            "FCC",
+            "TRM Labs",
+            "Coinbase",
+            "GraphQL"
+        ],
+        "years_experience": 3
+    },
+    {
+        "job_category": "software",
+        "job_id": "job_010",
+        "job_title": "Junior Software Engineer",
+        "company": "General Dynamics Mission Systems",
+        "location": "Dedham, MA",
+        "job_description_text": "As a Software Engineer at General Dynamics Mission Systems, you will assist in the research, design, development, and testing of software and tools, including creating new work products and enhancing existing applications, systems, or embedded products. The role involves coding, testing, and documenting software solutions while working within a team to advance technology solutions in cybersecurity, encryption, and other advanced domains.",
+        "required_skills": [
+            "C",
+            "C++"
+        ],
+        "preferred_skills": [
+            "Agile"
+        ],
+        "years_experience": 0
+    }
+]
